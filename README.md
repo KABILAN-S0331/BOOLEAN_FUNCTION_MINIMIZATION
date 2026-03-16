@@ -40,7 +40,7 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 
 # TRUTH TABLE :
 
-![e2truthtable](https://github.com/user-attachments/assets/5fb38bd7-a70c-4e02-9ce6-31034104be2d)
+<img src="https://img.sanishtech.com/u/edbe94578cf5d4252cb3677ed3987814.jpg" alt="truth_table" width="358" height="1466" loading="lazy" style="max-width:100%;height:auto;">
 
 # RTL OUTPUT :
 
