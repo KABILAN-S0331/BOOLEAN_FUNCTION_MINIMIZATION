@@ -40,7 +40,7 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 
 # TRUTH TABLE :
 
-<img src="https://img.sanishtech.com/u/edbe94578cf5d4252cb3677ed3987814.jpg" alt="truth_table" width="358" height="1466" loading="lazy" style="max-width:100%;height:auto;">
+[<img src="https://img.sanishtech.com/u/edbe94578cf5d4252cb3677ed3987814.jpg" alt="truth_table" width="358" height="1466" loading="lazy" style="max-width:100%;height:auto;">](https://github.com/KABILAN-S0331/BOOLEAN_FUNCTION_MINIMIZATION.git)
 
 # RTL OUTPUT :
 
